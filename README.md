@@ -26,3 +26,5 @@ Modern deep learning algorithms, such as CNN can learn features that are invaria
 Augmeantation can further aid in this transform invariant approach to learning and can aid the model in learning features that are also invariant to transform such as left-to-right to top-to-bottom ordering, light levels in photographs, and more.
 
 Image data augmentation is typically only applied to the training dataset, and not to the validation or test dataset. This is different from data preparation such as image resizing and pixel scaling; they must be performed consistently across all datasets that interact with the model
+
+[Jupyter Notebook](./Data_augmentation.ipynb)
