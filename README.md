@@ -1,4 +1,4 @@
-# Data-Augmentation
+# Image-Data-Augmentation
 IMAGE AUGMENTATION WHILE TRAINING DEEP LEARNING NEURAL NETWORKS
 
 A technique that can be used to artificially expand the size of training dataset by creating modified versions of images in the dataset.
